@@ -1,0 +1,31 @@
+ID,Category,Name,Description,Price,Ingredient1,Ingredient2,Ingredient3,Ingredient4,Ingredient5,Ingredient6
+1,Appetizer,Garden Bruschetta,Toasted bread topped with fresh diced tomato basil and garlic finished with olive oil,7.50,Tomato,Basil,Garlic,Olive Oil,Bread Crumbs,
+2,Appetizer,Stuffed Mushrooms,Mushroom caps stuffed with goat cheese spinach and garlic then baked golden,8.00,Mushroom,Goat Cheese,Spinach,Garlic,Bread Crumbs,
+3,Appetizer,Zucchini Fritters,Crispy shredded zucchini fritters with onion and garlic served with a lemon dip,7.00,Zucchini,Egg,Flour,Garlic,Onion,
+4,Appetizer,Beet and Goat Cheese Salad,Roasted beets over arugula with goat cheese walnuts and a honey drizzle,9.50,Beets,Goat Cheese,Arugula,Walnut,Honey,
+5,Appetizer,Sweet Corn Fritters,Golden fritters made from fresh corn onion and peppers,7.00,Corn,Flour,Egg,Onion,Peppers,
+6,Appetizer,Citrus Shrimp Ceviche,Chilled shrimp cured in lemon with onion peppers and cucumber,11.00,Shrimp,Lemon,Onion,Peppers,Cucumber,
+7,Appetizer,Roasted Asparagus,Asparagus roasted with garlic and olive oil finished with fresh lemon,8.50,Asparagus,Olive Oil,Garlic,Lemon,,
+8,Appetizer,Radish and Cucumber Salad,A light salad of radish and cucumber with onion lemon and olive oil,6.50,Radish,Cucumber,Olive Oil,Lemon,Onion,
+9,Appetizer,Bacon Wrapped Dates,Sweet dates wrapped in bacon and drizzled with honey and walnuts,9.00,Bacon,Honey,Walnut,,,
+10,Appetizer,Spinach and Kale Dip,Warm and creamy spinach and kale dip with garlic and mozzarella,8.50,Spinach,Kale,Cream,Garlic,Mozzarella,
+11,Entree,Herb Roasted Chicken,Whole roasted chicken with garlic lemon potatoes and carrots,18.00,Chicken,Garlic,Lemon,Potato,Carrot,Olive Oil
+12,Entree,Grilled Salmon,Grilled salmon fillet with roasted asparagus lemon and garlic,22.00,Salmon,Lemon,Asparagus,Olive Oil,Garlic,
+13,Entree,Beef and Vegetable Stew,Slow simmered beef with potato carrot onion garlic and peppers,19.00,Beef,Potato,Carrot,Onion,Garlic,Peppers
+14,Entree,Shrimp and Quinoa Bowl,Sauteed shrimp over quinoa with peppers corn onion and lemon,20.00,Shrimp,Quinoa,Peppers,Corn,Onion,Lemon
+15,Entree,Pork Tenderloin with Peach Glaze,Pork tenderloin glazed with peach honey garlic and onion,21.00,Pork,Peach,Honey,Garlic,Onion,
+16,Entree,Duck Breast with Fig Sauce,Seared duck breast finished with a fig honey and butter sauce,26.00,Duck,Fig,Honey,Butter,Onion,
+17,Entree,Vegetable Risotto,Creamy rice risotto with mushroom spinach garlic onion and butter,17.00,Rice,Mushroom,Spinach,Garlic,Onion,Butter
+18,Entree,Stuffed Peppers,Peppers stuffed with rice beef onion corn and garlic,18.50,Peppers,Rice,Beef,Onion,Corn,Garlic
+19,Entree,Zucchini Noodle Primavera,Zucchini noodles tossed with tomato basil garlic olive oil and mushroom,16.50,Zucchini,Tomato,Basil,Garlic,Olive Oil,Mushroom
+20,Entree,Bacon Wrapped Pork Loin,Pork loin wrapped in bacon glazed with honey garlic and onion,23.00,Pork,Bacon,Honey,Garlic,Onion,
+21,Dessert,Apple Cinnamon Crisp,Warm baked apples with cinnamon butter flour and honey topping,7.00,Apple,Cinnamon,Butter,Flour,Honey,
+22,Dessert,Peach Cobbler,Fresh peaches baked under a buttery cinnamon vanilla crust,7.50,Peach,Butter,Flour,Cinnamon,Vanilla,
+23,Dessert,Blueberry Tart,A buttery tart shell filled with fresh blueberries egg and vanilla custard,8.00,Blueberry,Butter,Flour,Egg,Vanilla,
+24,Dessert,Strawberry Shortcake,Fresh strawberries and cream layered with a buttery vanilla biscuit,7.50,Strawberry,Cream,Flour,Butter,Vanilla,
+25,Dessert,Pumpkin Pie,Classic pumpkin pie with egg cream cinnamon and vanilla,6.50,Pumpkin,Egg,Cream,Cinnamon,Vanilla,
+26,Dessert,Pecan Tart,A rich pecan tart sweetened with honey butter and egg,8.00,Pecan,Honey,Butter,Flour,Egg,
+27,Dessert,Chocolate Walnut Brownies,Fudgy chocolate brownies packed with walnuts butter and egg,6.00,Chocolate,Walnut,Butter,Egg,Flour,
+28,Dessert,Fig and Honey Cake,A moist cake made with fresh figs honey butter and egg,7.50,Fig,Honey,Flour,Egg,Butter,
+29,Dessert,Blackberry Sorbet,A refreshing sorbet made from blackberries honey and lemon,6.00,Blackberry,Honey,Lemon,,,
+30,Dessert,Vanilla Custard with Berries,Silky vanilla custard topped with fresh blueberries and strawberries,7.00,Vanilla,Egg,Cream,Blueberry,Strawberry,
